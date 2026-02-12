@@ -86,13 +86,12 @@ streamlit run app.py
 
 You can connect your MySQL Workbench database directly:
 
-- 1.Start MySQL Server
-- 2.Open MySQL Workbench
-- 3.Create or select a database
-- 4.In the Streamlit sidebar, choose:
+1.Start MySQL Server
+2.Open MySQL Workbench
+3.Create or select a database
+4.In the Streamlit sidebar, choose:
     "Connect to your MySQL Database"
-- 5.Enter:
-
+5.Enter:
 - Host
 - Username
 - Password
