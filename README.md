@@ -91,7 +91,7 @@ You can connect your MySQL Workbench database directly:
 3.Create or select a database <br>
 4.In the Streamlit sidebar, choose: <br>
     "Connect to your MySQL Database" <br>
-5.Enter: <br>
+5.Enter:
 - Host
 - Username
 - Password
