@@ -77,21 +77,21 @@ streamlit run app.py
 
 ### 🔑 Groq API Key Setup
 
-- 1.Visit 👉 https://console.groq.com
-- 2.Generate your API key
-- 3.Paste the key in the Streamlit sidebar
+1.Visit 👉 https://console.groq.com <br>
+2.Generate your API key <br>
+3.Paste the key in the Streamlit sidebar <br>
 ⚠️ Without the API key, the app will not run.
 
 ### 🛢️ Connect Your MySQL Workbench Database
 
 You can connect your MySQL Workbench database directly:
 
-1.Start MySQL Server
-2.Open MySQL Workbench
-3.Create or select a database
-4.In the Streamlit sidebar, choose:
-    "Connect to your MySQL Database"
-5.Enter:
+1.Start MySQL Server <br>
+2.Open MySQL Workbench <br>
+3.Create or select a database <br>
+4.In the Streamlit sidebar, choose: <br>
+    "Connect to your MySQL Database" <br>
+5.Enter: <br>
 - Host
 - Username
 - Password
