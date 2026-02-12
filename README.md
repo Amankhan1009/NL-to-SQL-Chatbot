@@ -34,12 +34,13 @@ Built with **LangChain**, **Groq LLM (LLaMA 3.3 – 70B)**, and **Streamlit**, t
 
 ## 📂 Project Structure
 
-├── app.py # Streamlit app (main entry point)
-├── sqlite.py # Script to create and populate SQLite DB
-├── student.db # Sample SQLite database
+```text
+├── app.py           # Streamlit app (main entry point)
+├── sqlite.py        # Script to create and populate SQLite DB
+├── student.db       # Sample SQLite database
 ├── requirements.txt # Project dependencies
 └── README.md
-
+```
 
 ---
 
