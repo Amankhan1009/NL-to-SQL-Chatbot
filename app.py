@@ -41,7 +41,7 @@ if not api_key:
 # llm=ChatGroq(groq_api_key=api_key,model_name="openai/gpt-oss-20b",streaming=True)
 llm = ChatGroq(
     groq_api_key=api_key,  
-    model_name="llama-3.3-70b-versatile", 
+    model_name="meta-llama/llama-4-maverick-17b-128e-instruct", 
     streaming=True
 )
 
